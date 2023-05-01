@@ -1,0 +1,20 @@
+<%-- 
+    Document   : index
+    Created on : 1/05/2023, 2:21:53 p. m.
+    Author     : HP
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Formas de insertar Código Java en JSP</title>
+    </head>
+    <body>
+        <h1>Formas de insertar código Java en JSP</h1>
+        <h1>Expresiones</h1>
+        <h1>Scriptlest</h1>
+        <h1>Declaraciones</h1>
+    </body>
+</html>
